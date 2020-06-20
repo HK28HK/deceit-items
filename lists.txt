@@ -1,0 +1,8 @@
+hairs
+accessories
+clothes
+wristband
+pistols
+knife
+victory poses
+defeat poses
