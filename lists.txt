@@ -1,8 +1,8 @@
 hairs
 accessories
 clothes
-wristband
+wristbands
 pistols
-knife
+knifes
 victory poses
 defeat poses
